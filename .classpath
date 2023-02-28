@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/fontbox-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/miaLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/pdfbox-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/pdfbox-debugger-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/pdfbox-tools-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/preflight-2.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/angel/eclipse-workspace/Prova/pdfbox-2.0.27/xmpbox-2.0.27.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
